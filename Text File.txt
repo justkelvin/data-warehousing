@@ -1,0 +1,35 @@
+Customer Segmentation with K-means (approx. 5-6 pages):
+
+Explain the concept of customer segmentation and its importance in marketing.
+Describe the adopted clustering methodology using K-means.
+Present the steps involved in implementing K-means clustering on the dataset.
+Discuss the process of determining the optimal value of K (number of clusters).
+Justify the chosen value of K based on appropriate metrics or techniques.
+Present the results of customer segmentation and the profile of each cluster.
+Interpret the properties that describe customers within each cluster.
+Provide visualizations or tables to support the discussion.
+
+
+Review of Results (approx. 3-4 pages):
+
+Discuss the business value for marketers of the specific customer clusters.
+Explain how the identified clusters can contribute to increased customer loyalty.
+Analyze how the customer segments can impact customer lifetime value.
+Support your discussion with relevant insights from the clustering results.
+Provide examples or scenarios to illustrate the practical implications.
+
+
+Data Mart Design (approx. 4-5 pages):
+
+Based on the findings from customer segmentation and the review of results:
+Identify the main dimensions that should be included in the data mart for marketing analysis.
+Justify the selection of these dimensions based on their relevance to marketing decision-making.
+Identify the measures or metrics that should be included to assess marketing performance.
+Justify the selection of these measures based on their ability to provide actionable insights.
+
+
+Conclusion (approx. 1 page):
+
+Summarize the key findings and insights derived from the customer segmentation analysis.
+Provide a brief recap of the business value of the identified customer segments.
+Emphasize the importance of the suggested data mart design for the marketing department.
